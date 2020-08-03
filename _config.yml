@@ -10,6 +10,6 @@ markdown: kramdown
 theme: minima
 
 # Header
-header_pages:
-  - about.md
-  - Projects.md
+#header_pages:
+#  - about.md
+#  - Projects.md
