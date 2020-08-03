@@ -8,4 +8,4 @@ github_username:  MaxvanderWerf
 
 # Build settings
 markdown: kramdown
-theme: yamt
+theme: minima
