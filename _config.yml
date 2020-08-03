@@ -8,3 +8,8 @@ github_username:  MaxvanderWerf
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Header
+header_pages:
+  - about.md
+  - Projects.md
