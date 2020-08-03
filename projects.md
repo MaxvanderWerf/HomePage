@@ -1,11 +1,12 @@
+---
 layout: page
-title: "Projects"
-permalink: /Projects/
+title: Projects
+---
 
 # Projects
 A list of the projects I have worked on so far
 
-## Project 1 -
+## Project 1 - Script to Automatically Download and Set Desktop Wallpaper
 
 ## Project 2 - Kaggle Competition - Titanic
 
