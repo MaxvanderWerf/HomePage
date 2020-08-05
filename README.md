@@ -40,3 +40,4 @@ Online courses and books that I have used and my reviews about them.
 * Github
 * StackOverflow
 * Kaggle
+* Twitter
