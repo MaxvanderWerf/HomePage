@@ -12,6 +12,8 @@ On this page I will be sharing what I have done in the past, what I'm currently 
 * Finally, the script sets one of the downloaded images as my desktop background 
 * Using a batch file and Windows Task Manager, this script is automatically executed daily 
 
+![](images/Unsplash.png)
+
 ### Project 2 - Work in Progress
 
 ______________________________________________________________________________________________________
