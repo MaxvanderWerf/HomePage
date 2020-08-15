@@ -41,8 +41,8 @@ Online courses and books that I have used and my reviews about them.
 * Excel
 
 #### You can find me on:
-* LinkedIn
-* Github
-* StackOverflow
-* Kaggle
-* Twitter
+* [LinkedIn](https://www.linkedin.com/in/max-van-der-werf/)
+* [Github](https://github.com/MaxvanderWerf)
+* [StackOverflow](https://stackoverflow.com/users/13791043/max-van-der-werf)
+* [Kaggle](https://www.kaggle.com/maxvdw)
+* [Twitter](https://twitter.com/WerfMax)
