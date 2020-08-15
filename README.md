@@ -13,6 +13,7 @@ On this page I will be sharing what I have done in the past, what I'm currently 
 * Using a batch file and Windows Task Manager, this script is automatically executed daily 
 
 ![](images/Unsplash.png)
+
 ![](images/Desktop.png)
 
 ### Project 2 - Work in Progress
