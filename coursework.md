@@ -3,8 +3,6 @@ layout: page
 title: Coursework
 ---
 
-# Coursework
-
 ### Online Courses
 
 #### LinkedIn Learning
