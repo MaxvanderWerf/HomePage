@@ -1,4 +1,4 @@
-
+![](images/Logo%20Breed2.jpg)
 
 My name is Max van der Werf, I'm an aspiring datascientist currently doing Msc. Applied Data Science at Utrecht University in the Netherlands.
 On this page I will be sharing what I have done in the past, what I'm currently working on and what I'm planning to do in the future. 
