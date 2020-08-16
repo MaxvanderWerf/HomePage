@@ -11,6 +11,6 @@ theme: minima
 
 # Header
 header_pages:
-  - about.md
   - projects.md
+  - coursework.md
   - recommendations.md
