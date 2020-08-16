@@ -13,3 +13,4 @@ theme: minima
 header_pages:
   - projects.md
   - coursework.md
+  - aboutme.md
