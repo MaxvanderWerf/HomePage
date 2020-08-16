@@ -20,20 +20,6 @@ On this page I will be sharing what I have done in the past, what I'm currently 
 
 ______________________________________________________________________________________________________
 
-### My Recommendations
-Online courses and books that I have used and my reviews about them.
-
-#### Online Courses
-* Udemy
-* 
-* LinkedIn Learning
-* 
-
-#### Books
-* Life 3.0 by Max Tegmark
-* Thinking, Fast and Slow by Daniel Kahneman
-* Outliers by Malcolm Gladwell
-* 
 
 ### Programs I have experience with (some more than others)
 * Python
