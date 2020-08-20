@@ -30,5 +30,5 @@ title: Coursework
 ## The courses I want to follow
 * [Web Scraping with Python - DataCamp](https://learn.datacamp.com/courses/web-scraping-with-python?tap_a=5644-dce66f&tap_s=463826-784532)
 * [Advanced SQL - Kaggle](https://www.kaggle.com/learn/advanced-sql)
-* [Data Science: R Basics - Harvard](https://online-learning.harvard.edu/course/data-science-r-basics?delta=1)
+* [Data Science: R Basics - Harvard & edX](https://online-learning.harvard.edu/course/data-science-r-basics?delta=1)
 * [Introduction to Web Scraping](https://data-lessons.github.io/library-webscraping-DEPRECATED/)
