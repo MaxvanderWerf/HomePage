@@ -30,4 +30,4 @@ ________________________________________________________________________________
 #### Connect with me on:
 <a href="https://medium.com/@max_vander_werf"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/WerfMax"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/max-van-der-werf/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/maxvdw"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 
-and [Github](https://github.com/MaxvanderWerf) and [StackOverflow](https://stackoverflow.com/users/13791043/max-van-der-werf)
+[Github](https://github.com/MaxvanderWerf) and [StackOverflow](https://stackoverflow.com/users/13791043/max-van-der-werf)
